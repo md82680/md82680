@@ -25,4 +25,4 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer and aspiring Machine Le
 - LinkedIn: [Michael Despo](https://www.linkedin.com/in/michaeldespo/)
 - Portfolio: www.michaeldespo.com
 
-Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out for collaborations, work opportunities or just a chat about tech!
+Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out for collaborations, work opportunities or to talk about the future of tech!
