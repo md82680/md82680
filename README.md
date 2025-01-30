@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Full-Stack Developer and aspiring Machine Learning Engineer. My goal is to build machine learning models/systems through real-world projects and educational coursework.
 
 ## 🚀 About Me
-- 💻 Full-Stack Developer with a passion for Machine Learning
+- 💻 Full-Stack Developer pursuing my interest in Machine Learning
 - 🏠 Former founder of a real estate investment company
 - 🖥️ Ex-Director of IT consulting for Investment Managers
 - 🎓 Lifelong learner with certifications from MITxPro, Coursera, and Harvard's CS50
