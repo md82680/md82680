@@ -7,6 +7,8 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer and aspiring Machine Le
 - Former founder of a real estate investment company
 - Ex-Director of IT consulting for Investment Managers
 - Lifelong learner with certifications from MITxPro, Coursera, and Harvard's CS50
+- UC Berkeley MIDS (Admit May 2025)
+- UC Boulder MS in Computer Science (Admit April 2025)
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, JavaScript
