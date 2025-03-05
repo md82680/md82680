@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michael Despo!
 
-Welcome to my GitHub profile! I'm a Full-Stack Developer and aspiring Machine Learning Engineer. My goal is to build machine learning models/systems through real-world projects and educational coursework.
+Welcome to my GitHub profile! I'm a Full-Stack Developer and aspiring Machine Learning Engineer with strong Program/Project Management experience. My goal is to develop the skills necessary to engineer and train machine learning models/systems through real-world projects and educational coursework.
 
 ## 🚀 About Me
 - Full-Stack Developer pursuing my interest in Machine Learning
