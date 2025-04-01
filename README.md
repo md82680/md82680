@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Michael Despo!
 
-Welcome to my GitHub profile! I'm a Full-Stack Developer and aspiring Machine Learning Engineer with strong Program/Project Management experience. My goal is to develop the skills necessary to engineer and train machine learning models/systems through real-world projects and educational coursework.
+Welcome to my GitHub profile! I'm a seasoned technology leader pivoting into machine learning and data science to drive innovation. After completing MIT’s Professional Full Stack Development with MERN program, I've developed object-oriented programming skills (Python, JavaScript) and am actively expanding my expertise in AI-driven solutions. Building on my MIT training, I’m now excited to further my technical journey as an incoming UC Berkeley MIDS candidate (May 2025) and through additional specialized coursework. 
+
+As a machine learning engineer/data scientist, full-stack developer, and senior program/project manager, I am focused on building scalable models to drive strategic decisions across organizations to boost lead generation, maximize revenue growth, and reduce both costs and time. Over my career, I've held leadership roles—as a former Director of Consulting at Citisoft and as the Founder of my own real estate wholesale company—thriving at the intersection of engineering, strategy, and execution.
 
 ## 🚀 About Me
-- Full-Stack Developer pursuing my interest in Machine Learning
+- Machine Learning Engineer with Full Stack Development expertise
 - Former founder of a real estate investment company
 - Ex-Director of IT consulting for Investment Managers
 - Lifelong learner with certifications from MITxPro, Coursera, and Harvard's CS50
@@ -12,8 +14,8 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer and aspiring Machine Le
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, JavaScript
-- **Frameworks**: Flask, React, Node.js, Express
-- **Databases**: MongoDB, PostgreSQL, SQLite
+- **Frameworks**: Pytorch, TensorFlow, Flask, React, Node.js, Express
+- **Databases**: PostgreSQL, SQLite
 - **DevOps**: Docker
 - **Cloud**: Vercel
 
