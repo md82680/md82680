@@ -14,10 +14,11 @@ As a machine learning engineer/data scientist, full-stack developer, and senior 
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, JavaScript
-- **Frameworks**: Pytorch, TensorFlow, Flask, React, Node.js, Express
+- **Frameworks**: PyTorch, TensorFlow, scikit-learn, FastAPI, React, Node.js, Express
 - **Databases**: PostgreSQL, SQLite
-- **DevOps**: Docker
-- **Cloud**: Vercel
+- **DevOps**: Docker, Kubernetes, GitHub Actions, CI/CD
+- **Cloud**: GCP (GKE, Artifact Registry), Vercel
+- **Monitoring**: Prometheus
 
 ## 📚 Current Learning
 - Deep diving into Machine Learning algorithms
