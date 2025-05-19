@@ -9,8 +9,7 @@ As a machine learning engineer/data scientist, full-stack developer, and senior 
 - Former founder of a real estate investment company
 - Ex-Director of IT consulting for Investment Managers
 - Lifelong learner with certifications from MITxPro, Coursera, and Harvard's CS50
-- UC Berkeley Master of Information Data Science (Admit May 2025)
-- UC Boulder Master of Science in Computer Science (Admit April 2025)
+- UC Boulder Master of Science in Computer Science - Candidate May 2026
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, JavaScript
